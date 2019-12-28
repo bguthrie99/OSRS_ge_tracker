@@ -6,7 +6,8 @@ This is a simple Python script that scrapes active trading prices directly from 
 I utilize only three packages in this.
 
 1. BeautifulSoup4 - used to submit my GET requests
-2. osrsbox - used for item identification and setting up for my data scrape
-3. cfscrape - also used for GET requests
+2. cfscrape - also used for GET requests
+3. osrsbox - used for item identification and setting up for my data scrape
+
 
 
