@@ -1,5 +1,4 @@
 # OSRS_ge_tracker
-Hi!
 
 This is a simple Python script that scrapes active trading prices directly from the OSRS website. This is a simple side project that I worked on for fun; I enjoyed getting practice learning Python and webscraping.
 
